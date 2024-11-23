@@ -2,7 +2,7 @@
 
 
 
-![e10d1acb50cf3bca7e71449d466478b](https://wegret-pic.oss-cn-beijing.aliyuncs.com/e10d1acb50cf3bca7e71449d466478b.jpg)
+![焊接实物图](焊接实物图.jpg)
 
 ------
 
@@ -129,9 +129,3 @@ $$
 方波窄脉冲同上，剩下的正弦余弦如下：
 
 <img src="https://wegret-pic.oss-cn-beijing.aliyuncs.com/55cac8ce6c760036557eb33cbf2875f.jpg" alt="55cac8ce6c760036557eb33cbf2875f" style="zoom: 67%;" />
-
-![image-20241124005648668](https://wegret-pic.oss-cn-beijing.aliyuncs.com/image-20241124005648668.png)
-
-
-
-![e10d1acb50cf3bca7e71449d466478b](https://wegret-pic.oss-cn-beijing.aliyuncs.com/e10d1acb50cf3bca7e71449d466478b.jpg)
