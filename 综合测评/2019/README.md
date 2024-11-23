@@ -1,4 +1,4 @@
-![image-20241124005648668](https://wegret-pic.oss-cn-beijing.aliyuncs.com/image-20241124005648668.png)
+![实物电路图](实物电路图.png)
 
 
 
